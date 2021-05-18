@@ -3,12 +3,6 @@ using System.Collections.Generic;
 
 namespace Oware.Tests
 {
-    public interface IScoreHouse {
-        int GetCount();
-        void AddSeed(Seed seed);
-        void Reset();
-    }
-    
     public class MockScoreHouse: IScoreHouse
     {
         private List<Seed> seedsInHouse;
