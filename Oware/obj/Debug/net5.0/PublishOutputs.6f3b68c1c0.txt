@@ -1,0 +1,5 @@
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\output\Oware.exe
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\output\Oware.dll
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\output\Oware.deps.json
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\output\Oware.runtimeconfig.json
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\output\Oware.pdb

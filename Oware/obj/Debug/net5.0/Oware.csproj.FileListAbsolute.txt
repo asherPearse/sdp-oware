@@ -1,0 +1,16 @@
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\Oware.exe
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\Oware.deps.json
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\Oware.runtimeconfig.json
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\Oware.runtimeconfig.dev.json
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\Oware.dll
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\ref\Oware.dll
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\bin\Debug\net5.0\Oware.pdb
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.csprojAssemblyReference.cache
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.AssemblyInfoInputs.cache
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.AssemblyInfo.cs
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.csproj.CoreCompileInputs.cache
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.dll
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\ref\Oware.dll
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.pdb
+C:\Users\pears\Desktop\Programming\Git\empty\sdp-oware\Oware\obj\Debug\net5.0\Oware.genruntimeconfig.cache
